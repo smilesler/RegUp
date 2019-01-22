@@ -4,7 +4,7 @@ a {
 }
 
 a:hover {
-  color: #3f51b3;
+  color: #925DCF;
 }
 
 .section-titile-bg {
@@ -21,7 +21,7 @@ a:hover {
 }
 
 .btn-common:hover, .btn-common:focus {
-  background: #3f51b3 !important;
+  background: #925DCF !important;
 }
 
 .btn-round {
@@ -29,7 +29,7 @@ a:hover {
 }
 
 .btn-round:hover {
-  background: #3f51b3 !important;
+  background: #925DCF !important;
 }
 
 /* ScrollToTop */
